@@ -5,7 +5,7 @@ const AboutUs = () => {
     <div className="about-container" style={{ textAlign: 'center' }}>
       <h1>About Us</h1>
       <p>
-        Welcome to OurShop, your ultimate destination for online shopping! We offer a wide range of products including electronics, fashion, home goods, and much more. Our mission is to provide customers with a seamless shopping experience, offering high-quality products at competitive prices.
+        Zanzibar is a small island in Tanzania
       </p>
       <section className="about-section">
         <h2>Our Vision</h2>
